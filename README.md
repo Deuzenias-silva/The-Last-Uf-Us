@@ -1,5 +1,5 @@
 # The-Last-Of-US
-[![NPM](https://img.shields.io/npm/l/react)]https://github.com/Deuzenias-silva/ProjetoMeu/blob/main/LICENSE
+[![NPM](https://img.shields.io/npm/l/react)]https://github.com/Deuzenias-silva/MelhorProjeto/blob/main/LICENSE
 
 # Sobre o projeto
 
